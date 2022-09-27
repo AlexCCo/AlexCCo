@@ -25,7 +25,7 @@ microservices.
 
 # 
 
-<summary><h3>📑 About me</h3></summary>
+### 📑 About me
 I feel lucky by forming part of this vast and always expanding field that is technology and although my initial passion was physics, 
 once I started computer science in college, I fell right into its wonders. Being able to use this tools that technology provides 
 to improve your understanding of the world or to help pleople is breathtaking.<br><br>
