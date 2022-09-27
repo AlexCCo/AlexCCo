@@ -29,11 +29,9 @@ microservices.
     <summary><h3>📑 About me</h3></summary>
     I feel lucky by forming part of this vast and always expanding field that is technology and although my initial passion was physics, 
     once I started computer science in college, I fell right into its wonders. Being able to use this tools that technology provides 
-    to improve your understanding of the world or to help pleople is breathtaking.
-
+    to improve your understanding of the world or to help pleople is breathtaking.<br><br>
     My firsts steps were learing about the hardware and later on, the software of what compose our today's computers. I've found myself
     with great challenges while developing my intuition in programming and nowadays I feel most comfortable developing backend 
-    applications with Spring although I feel very curious about frontend developing so Full stack, here I come!
-
+    applications with Spring although I feel very curious about frontend developing so Full stack, here I come!<br><br>
     I wouldn't be enjoying this profession if it weren't for all the people that supported me behind the curtains so to all of them:
     Thank you!
