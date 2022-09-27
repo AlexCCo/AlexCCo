@@ -34,4 +34,4 @@ microservices.
     challenges while developing my intuition in programming. Nowadays I feel most comfortable developing backend applications with Spring
     although I feel very curious about frontend developing so Full stack, here I come!<br><br>
     Just to end this brief introductiong about me, I wanted to note that I wouldn't be enjoying this profession if it weren't for all the
-    people that supported me behind the curtains so to all of them: **Thank you!**
+    people that supported me behind the curtains so to all of them: <strong>Thank you!</strong>
